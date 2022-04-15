@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: e1835fb0dfe7da5428417ec56f59558f
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Armchair_1.001
+    second: {fileID: 2100000, guid: 1daae265b896607499b355fc83a74126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Armchair_2.001
+    second: {fileID: 2100000, guid: 32f382eaba71a5e4f8575725ece05b4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Book
+    second: {fileID: 2100000, guid: b3eb621f81d50a5449883e2d3decba7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Books_1
+    second: {fileID: 2100000, guid: 4e132fe76901c1145ac75398131d3093, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Books_2
+    second: {fileID: 2100000, guid: 5eae33ef6b80a6c47b55f00127f0950b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Books_3
+    second: {fileID: 2100000, guid: cc78101cef4e8c34cbd0ff23e6e1edea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Bottle_Glass
+    second: {fileID: 2100000, guid: c1ea8ab31ce8e4f47bf19aa1cf972160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Bottle_Paper
+    second: {fileID: 2100000, guid: d8dad394f7b3d2242aed4f707b4a25ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Bowl
+    second: {fileID: 2100000, guid: 128cbc19f73f31442a418fac8dceb101, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Bowl_2
+    second: {fileID: 2100000, guid: 9b159741cdfb7774eb844304f3e98f5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Carpet
+    second: {fileID: 2100000, guid: 98d89ab2931f0cd41ada3be9e12683e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ceiling.001
+    second: {fileID: 2100000, guid: 62460f3a58370004faf8008308228a46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Chair.001
+    second: {fileID: 2100000, guid: d29ab6043db1c46408ac1e8c07e806be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Chandelier
+    second: {fileID: 2100000, guid: b3033b0e7d038624fa2192e8f16e0010, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Chandelier_Glass
+    second: {fileID: 2100000, guid: 6c1a2ebfb69abea4c80771532f20635f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Closet_1_Drawer.001
+    second: {fileID: 2100000, guid: 6593a3feb84eac14b8194f97d3abcd09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Closet_1_Glass.001
+    second: {fileID: 2100000, guid: 5beb9bc7aecdd7941a1cfa7c8d36ee11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Closet_1_LowerLeftCover.001
+    second: {fileID: 2100000, guid: 863c27e18324b79469463236a140abba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Closet_1_LowerRightCover.001
+    second: {fileID: 2100000, guid: 626fe94de58466b4ab79cd291f92d6de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Closet_1_Main.001
+    second: {fileID: 2100000, guid: 4659e1c1c71bdfd40867b95e3000f6c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Closet_1_UpperLeftCover.001
+    second: {fileID: 2100000, guid: 037728ac685b5b247833083a50300236, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Closet_2_Glass.001
+    second: {fileID: 2100000, guid: d8488ac416d79714aa80c5bd51dbbdfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Closet_2_Wood_1.001
+    second: {fileID: 2100000, guid: 7a19f22a2b53c5f4782781db256dae6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Closet_2_Wood_2.001
+    second: {fileID: 2100000, guid: e46a9e878c24b5a4e9c683df1a2e4ff9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Closet_2_Wood_3.001
+    second: {fileID: 2100000, guid: be71c1b081ba98e4896ed0a8369b48fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Cup
+    second: {fileID: 2100000, guid: 1e985dd24f02fae438b7495f34d05ff0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Curtain_Long
+    second: {fileID: 2100000, guid: 99b67e0e39a7c5241a5d55304574f180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Cushion
+    second: {fileID: 2100000, guid: 72e30dbb89392434f9fc6a1008e0694f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Dining_Table.001
+    second: {fileID: 2100000, guid: aeb57f54535779a48985dad492a9668a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Door.001
+    second: {fileID: 2100000, guid: 3c74edc35affdd343ac86a9cf9cbf07d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Door_Frame.001
+    second: {fileID: 2100000, guid: 2b15bcfb2d7c18148b97a545db7f04ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Door_WGlass.001
+    second: {fileID: 2100000, guid: ef23ed6cc2d4e2f42b208b563d1e48da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_DoorwGlass_Frame.001
+    second: {fileID: 2100000, guid: 19352c7a3e57f89449da3272cab49e73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Flooring.001
+    second: {fileID: 2100000, guid: ab71fa01059fed14db780bf689273efd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Fork
+    second: {fileID: 2100000, guid: c1dffc7163513cf45a31ed4691f770de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Frame_1
+    second: {fileID: 2100000, guid: d60fc212b679f5142b9d98853cfc789f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Frame_2
+    second: {fileID: 2100000, guid: 66b3ea65ecaf18e4dad712651a9b0efb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Frame_3
+    second: {fileID: 2100000, guid: d87ac8abf28a05546b18f28703948c5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Glass_Drink
+    second: {fileID: 2100000, guid: 0fd33aacc0843c240a9694fe296d8853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Hanged_Closet.001
+    second: {fileID: 2100000, guid: 76df30c81260cca48b7f262d0d0b4f89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Hanged_Closet_Glass.001
+    second: {fileID: 2100000, guid: 7ad8951c18fbdb34f8b385dc921fcd21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Light_Socket
+    second: {fileID: 2100000, guid: a42ebc9b893d3c948aa238ca9ac62bab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Light_Switch
+    second: {fileID: 2100000, guid: 74b024c70cf1c0a4089ef55f6a984833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Plate_1
+    second: {fileID: 2100000, guid: 787b96dc764840c49b0eded21c53d28d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Plate_2
+    second: {fileID: 2100000, guid: b5633695b73980940b18650d43614118, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Radiator_Body.001
+    second: {fileID: 2100000, guid: 397ee9f7c70d7b7409ffb776127bd536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Radiator_Connection_1.001
+    second: {fileID: 2100000, guid: 8e34212361195ad49a4e6cb497b9e030, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Radiator_Connection_2.001
+    second: {fileID: 2100000, guid: a9934886434c7cd4e9ffefd2b18efbc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Radiator_Pipe.001
+    second: {fileID: 2100000, guid: 2228610474a25f54aac0ccf7c4626f4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Radiator_Valve.001
+    second: {fileID: 2100000, guid: fe3576a86e4f8654696986d11f41b8dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Radio
+    second: {fileID: 2100000, guid: 9456f704377f50b4094129ddc491e67c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Sofa.001
+    second: {fileID: 2100000, guid: 7e24be67973b8914bb13ab572652d1aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Spoon
+    second: {fileID: 2100000, guid: 8e2e220bcf814c44593ad1d9aca2b2db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Stall.001
+    second: {fileID: 2100000, guid: e9fae8b959023dd47b37bdf1c2ca266b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Table_Cloth
+    second: {fileID: 2100000, guid: cceb4bdcf8181fd4080b81a1c44d9836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Table_Phone.001
+    second: {fileID: 2100000, guid: b424c82870f11d94d893b5269e9549e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Telephone_Body
+    second: {fileID: 2100000, guid: 7f07bbbdf89b7714bacda4657a1c269e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Telephone_Dial
+    second: {fileID: 2100000, guid: 53fe1109e6d2b444184e3cd1ac16778d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Television
+    second: {fileID: 2100000, guid: 82dcf6dfaaa156643b81b892548cb479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Tv_Table.001
+    second: {fileID: 2100000, guid: 3f1cb97f905c0744ebbc52aa37c6ded7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Vase_1
+    second: {fileID: 2100000, guid: 58570bc52bc350c47963fb922c7ad4cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Vase_2
+    second: {fileID: 2100000, guid: 7a9c49861e66b7e42bd5c3ced2b5ced2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Vase_3
+    second: {fileID: 2100000, guid: cb4570404bb80284485d383e901b69ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Vase_4
+    second: {fileID: 2100000, guid: c6721702e1999bf48abb87b0671d217d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Vase_5
+    second: {fileID: 2100000, guid: 50a0bd97362ea2a4fb3a9ac0d4093b1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Vase_6
+    second: {fileID: 2100000, guid: 5c275be7d3d512d4f9393d8a67363ffb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Wall_Long.001
+    second: {fileID: 2100000, guid: b9b100997364a394887992fa9a7e15d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Wall_Long_WDoor.001
+    second: {fileID: 2100000, guid: 166beb59209c34944a0c41e9e88d39ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Wall_Short_Window.001
+    second: {fileID: 2100000, guid: 4336152404860fa47bfc2d11408c5d47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Wall_short_WDoor.001
+    second: {fileID: 2100000, guid: 393f8c1caebd2514583ba02b57037cfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Window_Large.006
+    second: {fileID: 2100000, guid: 1cb9fc5682ed08b479958b15bf9282c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Window_Large_Glass.005
+    second: {fileID: 2100000, guid: 90dabafecba9ec54c8116374f4281315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Window_Small.003
+    second: {fileID: 2100000, guid: 7ed252cbde6f3dd4c8c76f267f120b54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Window_Small_Glass.002
+    second: {fileID: 2100000, guid: ef0e510a6528ecb48902364eedb48501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaterialInstanceDynamic_0
+    second: {fileID: 2100000, guid: 353a3ee0e09f51a4c9e8d565f19757ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: curtain_flowers_
+    second: {fileID: 2100000, guid: 530afc586b9512d47acd7e8f6a89c2d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: curtain_holder
+    second: {fileID: 2100000, guid: 3c74edc35affdd343ac86a9cf9cbf07d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shadow_proxy
+    second: {fileID: 2100000, guid: fdb87632bd4c94846b3d79e685010e46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: towel
+    second: {fileID: 2100000, guid: 81d4c6c4f0acb5246ae31e57239b650d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
